@@ -1,4 +1,4 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Yogyerek1&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=Yogyerek1&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark)<h1 align="center">Hi 👋, I'm Yogyerek</h1>
+<h1 align="center">Hi 👋, I'm Yogyerek</h1>
 <h3 align="center">A passionate full-stack developer from Hungary</h3>
 
 - 🔭 I’m currently working on [Rycloon](https://rycloon.com)
